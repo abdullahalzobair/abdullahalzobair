@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdullah Al Zobair</h1>
 <h3 align="center">A passionate full-stack developer from Bangladesh</h3>
-<p align="left"> <a href="https://twitter.com/zobair29" target="blank"><img src="https://img.shields.io/twitter/follow/zobair29?logo=twitter&style=for-the-badge" alt="zobair29" /></a> </p>
 - 💬 Ask me about **React Frontend Development, MERN Stack Development**
 - 📫 How to reach me **abdalzobair27@gmail.com**
 <h3 align="left">Connect with me:</h3>
