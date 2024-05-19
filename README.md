@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Abdullah Al Zobair</h1>
 <h3 align="center">A passionate full-stack developer from Bangladesh</h3>
-<img align="right"  alt="Zobair" width="400" src="https://www.facebook.com/photo/?fbid=115883808135171&set=pb.100091406573866.-2207520000">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahalzobair&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahalzobair" /> </p>
 
 <p align="left"> <a href="https://twitter.com/zobair29" target="blank"><img src="https://img.shields.io/twitter/follow/zobair29?logo=twitter&style=for-the-badge" alt="zobair29" /></a> </p>
 
-- 💬 Ask me about **Web Development, MERN**
+- 💬 Ask me about **React Frontend Development, MERN Stack Development**
 
 - 📫 How to reach me **abdalzobair27@gmail.com**
 
